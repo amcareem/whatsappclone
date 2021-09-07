@@ -1,0 +1,845 @@
+/* Upperpart Rectangle */
+
+
+position: absolute;
+width: 411px;
+height: 148px;
+left: 0px;
+top: 0px;
+
+background: #202C35;
+
+
+/* Below black border */
+
+
+position: absolute;
+width: 411px;
+height: 20px;
+left: 0px;
+top: 803px;
+
+background: #000000;
+
+
+/* Archieved section */
+
+
+position: absolute;
+width: 411px;
+height: 77px;
+left: 0px;
+top: 148px;
+
+background: #1F2E39;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 0px;
+top: 717px;
+
+background: #1F2E39;
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 52px;
+height: 52px;
+left: 23px;
+top: 734px;
+
+background: url(image.png);
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 0px;
+top: 635px;
+
+background: #1F2E39;
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 0px;
+top: 553px;
+
+background: #1F2E39;
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 52px;
+height: 52px;
+left: 23px;
+top: 570px;
+
+background: url(image.png);
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 52px;
+height: 52px;
+left: 23px;
+top: 652px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 0px;
+top: 471px;
+
+background: #1F2E39;
+
+
+/* image */
+
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 127px;
+top: 542px;
+
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 52px;
+height: 52px;
+left: 23px;
+top: 488px;
+
+background: url(image.png);
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 0px;
+top: 389px;
+
+background: #1F2E39;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 0px;
+top: 307px;
+
+background: #1F2E39;
+
+
+/* Bruce Uncle */
+
+
+position: absolute;
+width: 109px;
+height: 23px;
+left: 93px;
+top: 570px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* Sajith New */
+
+
+position: absolute;
+width: 97px;
+height: 23px;
+left: 93px;
+top: 652px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* Mr. Bill Gates */
+
+
+position: absolute;
+width: 120px;
+height: 23px;
+left: 93px;
+top: 488px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* Diana */
+
+
+position: absolute;
+width: 51px;
+height: 23px;
+left: 93px;
+top: 400px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* CSD 71 Software */
+
+
+position: absolute;
+width: 153px;
+height: 23px;
+left: 93px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* Dr. Strange */
+
+
+position: absolute;
+width: 100px;
+height: 23px;
+left: 93px;
+top: 734px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 52px;
+height: 52px;
+left: 23px;
+top: 324px;
+
+background: url(image.png);
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 52px;
+height: 52px;
+left: 23px;
+top: 406px;
+
+background: url(image.png);
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 411px;
+height: 86px;
+left: 0px;
+top: 225px;
+
+background: #1F2E39;
+
+
+/* Dilshard Sir */
+
+
+position: absolute;
+width: 105px;
+height: 23px;
+left: 93px;
+top: 243px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 52px;
+height: 52px;
+left: 23px;
+top: 243px;
+
+background: url(image.png);
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 141px;
+height: 6px;
+left: 135px;
+top: 810px;
+
+background: #C4C4C4;
+border-radius: 2px;
+
+
+/* Yes, you are correct. */
+
+
+position: absolute;
+width: 135px;
+height: 18px;
+left: 93px;
+top: 269px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+
+
+/* Doctor, I have a bad headache.What should... */
+
+
+position: absolute;
+width: 299px;
+height: 18px;
+left: 108px;
+top: 757px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+
+
+/* I said that I need my app in Green color. */
+
+
+position: absolute;
+width: 262px;
+height: 18px;
+left: 93px;
+top: 675px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+
+
+/* Uncle can I have $1,000,000 for my studies. */
+
+
+position: absolute;
+width: 289px;
+height: 18px;
+left: 110px;
+top: 593px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+
+
+/* Sir, my payment is still pending. */
+
+
+position: absolute;
+width: 209px;
+height: 18px;
+left: 110px;
+top: 514px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+
+
+/* I’m glad that you like DC than Marvel. */
+
+
+position: absolute;
+width: 247px;
+height: 18px;
+left: 93px;
+top: 423px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+
+
+/* Arman: Hope you guys did the homework */
+
+
+position: absolute;
+width: 274px;
+height: 18px;
+left: 93px;
+top: 346px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+
+
+/* grey whatsapp received tick 2 */
+
+
+position: absolute;
+width: 17.14px;
+height: 18px;
+left: 88px;
+top: 514px;
+
+background: url(icons8-double-tick-64-removebg-preview.png);
+
+
+/* grey whatsapp received tick */
+
+
+position: absolute;
+width: 17.14px;
+height: 18px;
+left: 88px;
+top: 757px;
+
+background: url(icons8-double-tick-64-removebg-preview.png);
+
+
+/* blue whatsapp tick */
+
+
+position: absolute;
+width: 17px;
+height: 12px;
+left: 86px;
+top: 596px;
+
+background: url(170-1701281_tick-mark-png-icon-for-kids-whatsapp-blue-removebg-preview.png);
+
+
+/* png-transparent-line-black-and-white-angle-point-wifi-icon-wi-fi-logo-texture-computer-network-white-removebg-preview (1) 1 */
+
+
+position: absolute;
+width: 32px;
+height: 19px;
+left: 313px;
+top: 5px;
+
+background: url(png-transparent-line-black-and-white-angle-point-wifi-icon-wi-fi-logo-texture-computer-network-white-removebg-preview (1).png);
+
+
+/* icons8-signal-16 1 */
+
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 342px;
+top: 7px;
+
+background: url(icons8-signal-16.png);
+
+
+/* icons8-battery-level-30 */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 384px;
+top: 5px;
+
+background: url(icons8-battery-level-30.png);
+
+
+/* 45% */
+
+
+position: absolute;
+width: 23px;
+height: 14px;
+left: 363px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* 6:30 */
+
+
+position: absolute;
+width: 25px;
+height: 14px;
+left: 14px;
+top: 8px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* 6:13 pm */
+
+
+position: absolute;
+width: 40px;
+height: 13px;
+left: 357px;
+top: 244px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #878C8F;
+
+
+
+/* 3:38 pm */
+
+
+position: absolute;
+width: 40px;
+height: 13px;
+left: 355px;
+top: 727px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #878C8F;
+
+
+
+/* 4:00 pm */
+
+
+position: absolute;
+width: 40px;
+height: 13px;
+left: 355px;
+top: 652px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #878C8F;
+
+
+
+/* 4:21 pm */
+
+
+position: absolute;
+width: 40px;
+height: 13px;
+left: 355px;
+top: 570px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #878C8F;
+
+
+
+/* 4:30 pm */
+
+
+position: absolute;
+width: 40px;
+height: 13px;
+left: 355px;
+top: 488px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #878C8F;
+
+
+
+/* 5:15 pm */
+
+
+position: absolute;
+width: 40px;
+height: 13px;
+left: 355px;
+top: 401px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #878C8F;
+
+
+
+/* 5:57 pm */
+
+
+position: absolute;
+width: 40px;
+height: 13px;
+left: 355px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height */
+
+
+color: #878C8F;
+
+
+
+/* Message eclipse */
+
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 358px;
+top: 688px;
+
+background: url(Screenshot 2021-09-07 113938.png);
+border: 2px solid #00CC3F;
+box-sizing: border-box;
+
+
+/* Archieved */
+
+
+position: absolute;
+width: 95px;
+height: 25px;
+left: 93px;
+top: 174px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* 2 */
+
+
+position: absolute;
+width: 11px;
+height: 22px;
+left: 367px;
+top: 175px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 22px;
+
+color: #298373;
+
+
+
+/* Archive icon */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 39px;
+top: 176px;
+
+background: url(image.png);
+opacity: 0.8;
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 411px;
+height: 106px;
+
+background: url(image.png);
+opacity: 0.6;
